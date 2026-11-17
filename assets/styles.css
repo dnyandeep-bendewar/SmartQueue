@@ -1,0 +1,341 @@
+/* Theme tokens are injected here by utils.helpers.apply_theme_stylesheet. */
+/* SMARTQUEUE_THEME_VARIABLES */
+
+/* Streamlit does not expose a stable styling API for the app shell and BaseWeb
+   widgets, so these rules use its documented data-testid/data-baseweb hooks. */
+:root {
+  color-scheme: light;
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+.stApp {
+  background: var(--sq-bg) !important;
+  color: var(--sq-text);
+  color-scheme: var(--sq-color-scheme);
+  --background-color: var(--sq-bg);
+  --secondary-background-color: var(--sq-surface);
+  --text-color: var(--sq-text);
+  --primary-color: var(--sq-accent);
+  --sq-muted: var(--sq-secondary-text);
+}
+
+.stApp,
+.stApp [data-testid="stAppViewContainer"],
+.stApp [data-testid="stMain"],
+.stApp [data-testid="stMainBlockContainer"] {
+  background-color: var(--sq-bg);
+  color: var(--sq-text);
+}
+
+.stApp header,
+.stApp [data-testid="stHeader"] {
+  background: transparent;
+}
+
+.stApp [data-testid="stMainBlockContainer"] {
+  max-width: 1320px;
+  padding-top: 2rem;
+  padding-bottom: 3rem;
+}
+
+.stApp section[data-testid="stSidebar"],
+.stApp [data-testid="stSidebarContent"],
+.stApp [data-testid="stSidebarUserContent"] {
+  background: var(--sq-sidebar);
+  color: var(--sq-text);
+}
+
+.stApp section[data-testid="stSidebar"] {
+  border-right: 1px solid var(--sq-border);
+}
+
+.stApp section[data-testid="stSidebar"] h1,
+.stApp section[data-testid="stSidebar"] h2,
+.stApp section[data-testid="stSidebar"] h3 {
+  color: var(--sq-text);
+}
+
+.stApp section[data-testid="stSidebar"] h1 {
+  font-size: 1.45rem;
+  font-weight: 750;
+  letter-spacing: -0.035em;
+  margin-bottom: 1.25rem;
+}
+
+.stApp section[data-testid="stSidebar"] [data-testid="stRadio"] label {
+  border-radius: 0.55rem;
+}
+
+.stApp section[data-testid="stSidebar"] [data-testid="stRadio"] label:hover {
+  background: var(--sq-input);
+}
+
+.stApp section[data-testid="stSidebar"] [data-testid="stRadio"] label p {
+  color: var(--sq-text);
+}
+
+.stApp h1,
+.stApp h2,
+.stApp h3,
+.stApp h4,
+.stApp h5,
+.stApp h6,
+.stApp [data-testid="stHeading"] {
+  color: var(--sq-text);
+  letter-spacing: -0.02em;
+}
+
+.stApp [data-testid="stMarkdownContainer"],
+.stApp [data-testid="stText"],
+.stApp [data-testid="stWidgetLabel"],
+.stApp label,
+.stApp legend {
+  color: var(--sq-text);
+}
+
+.stApp p,
+.stApp [data-testid="stCaptionContainer"],
+.stApp [data-testid="stCaption"],
+.stApp [data-testid="stWidgetLabel"] p,
+.stApp [data-testid="stSidebar"] [data-testid="stCaptionContainer"] {
+  color: var(--sq-secondary-text);
+}
+
+.stApp a {
+  color: var(--sq-accent-text);
+}
+
+.stApp a:hover {
+  color: var(--sq-accent-hover);
+}
+
+.stApp [data-testid="stVerticalBlockBorderWrapper"],
+.stApp [data-testid="stMetric"],
+.stApp [data-testid="stExpander"],
+.stApp [data-testid="stPopover"] {
+  background: var(--sq-surface);
+  border-color: var(--sq-border);
+  border-radius: 0.9rem;
+  box-shadow: 0 8px 24px var(--sq-shadow);
+}
+
+.stApp [data-testid="stForm"] {
+  background: var(--sq-surface);
+  border: 1px solid var(--sq-border);
+  border-radius: 0.9rem;
+  padding: 1rem;
+}
+
+.stApp [data-testid="stVerticalBlockBorderWrapper"] {
+  padding: 0.15rem;
+}
+
+.stApp [data-testid="stMetric"] {
+  padding: 1rem 1.15rem;
+}
+
+.stApp [data-testid="stMetricLabel"],
+.stApp [data-testid="stMetricLabel"] p {
+  color: var(--sq-secondary-text);
+}
+
+.stApp [data-testid="stMetricValue"],
+.stApp [data-testid="stMetricDelta"] {
+  color: var(--sq-text);
+}
+
+.stApp [data-testid="stButton"] > button,
+.stApp [data-testid="stFormSubmitButton"] > button,
+.stApp button[kind="primary"],
+.stApp button[kind="secondary"] {
+  border-radius: 0.65rem;
+  font-weight: 600;
+  min-height: 2.65rem;
+  transition: none;
+}
+
+.stApp [data-testid="stBaseButton-primary"],
+.stApp [data-testid="stFormSubmitButton"] button[kind="primary"],
+.stApp button[kind="primary"] {
+  background: var(--sq-accent);
+  border: 1px solid var(--sq-accent);
+  color: var(--sq-button-text);
+}
+
+.stApp [data-testid="stBaseButton-primary"]:hover,
+.stApp [data-testid="stFormSubmitButton"] button[kind="primary"]:hover,
+.stApp button[kind="primary"]:hover {
+  background: var(--sq-accent-hover);
+  border-color: var(--sq-accent-hover);
+  color: var(--sq-button-hover-text);
+}
+
+.stApp [data-testid="stBaseButton-secondary"],
+.stApp button[kind="secondary"] {
+  background: var(--sq-surface);
+  border: 1px solid var(--sq-border);
+  color: var(--sq-text);
+}
+
+.stApp [data-testid="stBaseButton-secondary"]:hover,
+.stApp button[kind="secondary"]:hover {
+  background: var(--sq-input);
+  border-color: var(--sq-accent);
+  color: var(--sq-text);
+}
+
+.stApp button:focus-visible,
+.stApp input:focus-visible,
+.stApp textarea:focus-visible,
+.stApp [data-baseweb="select"]:focus-within,
+.stApp [data-baseweb="input"]:focus-within,
+.stApp [data-baseweb="textarea"]:focus-within {
+  outline: 2px solid var(--sq-accent);
+  outline-offset: 2px;
+}
+
+.stApp input,
+.stApp textarea,
+.stApp [data-baseweb="input"] > div,
+.stApp [data-baseweb="textarea"] > div,
+.stApp [data-baseweb="select"] > div {
+  background-color: var(--sq-input);
+  border-color: var(--sq-border);
+  border-radius: 0.6rem;
+  color: var(--sq-text);
+}
+
+.stApp input::placeholder,
+.stApp textarea::placeholder,
+.stApp [data-baseweb="select"] input::placeholder {
+  color: var(--sq-secondary-text);
+  opacity: 1;
+}
+
+.stApp [data-baseweb="select"] span,
+.stApp [data-baseweb="select"] input {
+  color: var(--sq-text);
+}
+
+.stApp [data-baseweb="popover"],
+.stApp [data-baseweb="menu"],
+.stApp [role="listbox"],
+.stApp [role="option"] {
+  background-color: var(--sq-surface);
+  color: var(--sq-text);
+}
+
+.stApp [role="option"]:hover,
+.stApp [role="option"][aria-selected="true"] {
+  background-color: var(--sq-input);
+  color: var(--sq-text);
+}
+
+.stApp [data-testid="stAlert"] {
+  background: var(--sq-surface);
+  border: 1px solid var(--sq-border);
+  border-radius: 0.75rem;
+  color: var(--sq-text);
+}
+
+.stApp [data-testid="stAlert"] [data-testid="stMarkdownContainer"],
+.stApp [data-testid="stAlert"] p {
+  color: var(--sq-text);
+}
+
+.stApp [data-testid="stDataFrame"],
+.stApp [data-testid="stTable"] {
+  background: var(--sq-surface);
+  border: 1px solid var(--sq-border);
+  border-radius: 0.75rem;
+  color: var(--sq-text);
+  overflow: hidden;
+}
+
+.stApp table {
+  background: var(--sq-surface);
+  border-collapse: collapse;
+  color: var(--sq-text);
+}
+
+.stApp th,
+.stApp td {
+  background: var(--sq-surface);
+  border-color: var(--sq-border);
+  color: var(--sq-text);
+}
+
+.stApp th {
+  font-weight: 650;
+}
+
+.stApp [data-testid="stExpander"] summary,
+.stApp [data-testid="stExpander"] summary p,
+.stApp [data-testid="stPopover"] button {
+  color: var(--sq-text);
+}
+
+.sq-home-eyebrow,
+.sq-home-step,
+.sq-visitor-eyebrow,
+.sq-admin-eyebrow,
+.sq-analytics-eyebrow {
+  color: var(--sq-accent-text) !important;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  margin-bottom: 0.45rem;
+  text-transform: uppercase;
+}
+
+.sq-home-footer {
+  color: var(--sq-text);
+  line-height: 1.8;
+  padding: 0.75rem 0;
+  text-align: center;
+}
+
+.sq-home-footer span {
+  color: var(--sq-secondary-text);
+  font-size: 0.9rem;
+}
+
+.sq-status-badge {
+  border: 1px solid var(--sq-border);
+  border-radius: 999px;
+  display: inline-block;
+  font-size: 0.78rem;
+  font-weight: 650;
+  line-height: 1.4;
+  padding: 0.2rem 0.65rem;
+}
+
+.sq-status-active,
+.sq-status-serving,
+.sq-status-served,
+.sq-status-waiting {
+  background: var(--sq-surface);
+  border-color: var(--sq-accent);
+  color: var(--sq-text);
+}
+
+.sq-status-inactive {
+  background: var(--sq-surface);
+  color: var(--sq-secondary-text);
+}
+
+.stApp [data-testid="stCode"] {
+  background: var(--sq-surface);
+  border: 1px solid var(--sq-border);
+  border-radius: 0.7rem;
+}
+
+@media (max-width: 700px) {
+  .stApp [data-testid="stMainBlockContainer"] {
+    padding: 1.15rem 0.85rem 1.75rem;
+  }
+
+  .stApp [data-testid="stMetric"] {
+    padding: 0.8rem;
+  }
+}

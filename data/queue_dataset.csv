@@ -1,0 +1,1001 @@
+people_waiting,active_counters,avg_service_time,hour,day_of_week,service_type,actual_waiting_time
+4,5,14,15,1,General Enquiry,4.7
+39,4,1,18,0,Admission,9.7
+33,3,6,12,4,General Enquiry,25.0
+22,5,7,12,4,General Enquiry,11.2
+22,1,12,16,5,Fee Payment,127.7
+43,5,2,13,6,Certificate,2.3
+4,5,7,15,3,Fee Payment,12.7
+35,3,3,12,5,General Enquiry,10.7
+10,4,12,11,5,Certificate,13.4
+4,3,10,15,1,Certificate,9.5
+26,2,8,10,5,Fee Payment,57.6
+49,4,6,11,0,Admission,55.1
+37,2,3,14,4,General Enquiry,10.4
+38,2,14,15,6,General Enquiry,82.5
+36,3,10,17,4,General Enquiry,35.7
+40,5,5,11,6,Certificate,16.3
+26,2,7,10,0,Fee Payment,46.9
+6,3,11,17,3,Certificate,12.4
+42,1,11,10,5,Admission,205.0
+22,1,7,11,4,Admission,105.1
+25,1,5,11,6,Fee Payment,52.3
+18,1,10,13,3,Fee Payment,113.3
+9,5,10,17,4,Fee Payment,16.7
+47,5,9,16,2,Admission,57.5
+39,5,2,15,6,Fee Payment,7.0
+32,1,8,10,0,Admission,166.5
+20,1,10,12,1,Fee Payment,138.5
+41,2,15,13,0,General Enquiry,93.3
+27,3,8,10,4,General Enquiry,25.0
+22,2,6,11,1,Fee Payment,47.1
+22,3,9,11,2,Admission,41.0
+11,1,3,10,5,General Enquiry,8.6
+4,4,2,14,2,Admission,0.0
+28,2,11,15,1,Admission,111.9
+45,1,15,10,0,Certificate,240.0
+3,4,13,13,1,Certificate,7.0
+43,5,9,16,6,General Enquiry,27.3
+42,1,1,15,3,Fee Payment,21.8
+14,3,15,16,6,Fee Payment,31.7
+32,5,7,12,1,Certificate,20.7
+8,4,5,16,2,Fee Payment,5.4
+38,5,14,11,1,Fee Payment,72.5
+35,3,12,12,2,Fee Payment,88.0
+18,2,12,10,3,General Enquiry,32.0
+3,4,5,13,5,General Enquiry,0.0
+49,1,15,12,2,Fee Payment,240.0
+22,2,7,11,5,Certificate,33.2
+45,4,8,15,4,General Enquiry,45.8
+34,4,12,11,2,Certificate,68.2
+39,1,10,11,6,Fee Payment,138.1
+38,3,3,10,3,Fee Payment,30.5
+9,2,5,12,1,Certificate,16.5
+18,3,6,11,6,Fee Payment,9.1
+23,5,15,12,6,Fee Payment,28.4
+25,1,11,11,0,Admission,205.2
+2,5,6,16,6,Admission,2.8
+27,3,12,17,6,Certificate,28.1
+7,4,12,13,5,General Enquiry,6.7
+37,3,6,15,1,General Enquiry,16.8
+34,2,7,16,4,Fee Payment,71.9
+47,4,14,18,3,Fee Payment,96.3
+37,4,9,14,4,Admission,47.0
+18,1,3,17,4,Fee Payment,25.3
+49,4,11,17,4,Certificate,70.9
+20,4,9,16,3,Fee Payment,33.0
+16,2,8,13,4,Fee Payment,40.5
+46,5,11,10,3,Fee Payment,69.9
+18,4,14,9,0,Certificate,35.6
+3,2,5,13,0,Certificate,6.0
+23,1,7,13,6,Admission,65.5
+40,4,3,12,6,Certificate,12.3
+9,2,10,14,4,General Enquiry,13.2
+23,4,7,14,1,General Enquiry,7.8
+6,3,6,16,5,General Enquiry,0.1
+35,3,11,10,1,Admission,83.8
+24,1,7,11,2,Certificate,97.8
+16,4,7,16,2,Fee Payment,23.7
+11,1,7,16,0,Certificate,43.4
+28,3,4,18,5,General Enquiry,11.9
+34,5,2,16,3,General Enquiry,8.8
+47,5,13,17,2,Admission,66.8
+22,5,2,11,3,Fee Payment,7.5
+8,5,5,12,0,Certificate,3.7
+42,3,11,11,3,Admission,118.9
+32,2,2,14,3,General Enquiry,12.5
+35,5,10,17,2,Admission,32.1
+4,5,11,12,5,Fee Payment,4.4
+15,5,10,14,1,Fee Payment,22.5
+39,4,5,11,0,Fee Payment,29.3
+42,1,1,10,3,General Enquiry,17.8
+22,3,14,11,6,Certificate,44.2
+41,3,5,9,2,Admission,32.1
+42,5,13,17,0,Certificate,55.2
+19,2,3,12,6,Fee Payment,6.8
+45,2,3,16,3,Fee Payment,37.9
+14,1,12,15,1,General Enquiry,72.2
+12,5,15,11,4,General Enquiry,15.1
+34,4,13,10,2,Admission,71.9
+32,1,12,16,6,Admission,189.3
+7,3,4,11,2,Certificate,5.1
+42,3,14,17,3,Certificate,92.7
+10,3,11,10,3,Admission,28.0
+41,5,3,15,1,Fee Payment,12.2
+0,1,2,16,3,Certificate,0.1
+40,2,14,11,0,Admission,183.3
+40,1,5,11,4,General Enquiry,61.3
+39,2,12,18,5,Certificate,68.9
+33,5,3,11,6,Admission,15.2
+24,5,5,12,2,General Enquiry,10.5
+35,1,5,12,1,General Enquiry,55.2
+14,4,5,11,3,Admission,5.7
+39,2,11,16,4,Fee Payment,131.7
+28,1,14,16,6,Fee Payment,196.4
+23,2,14,12,0,General Enquiry,59.4
+25,1,12,16,1,Certificate,191.8
+29,3,4,11,1,Certificate,23.6
+1,5,15,9,1,Admission,3.2
+7,3,9,14,3,Certificate,4.9
+12,4,9,18,6,General Enquiry,9.2
+5,3,11,9,0,Fee Payment,8.2
+22,1,12,11,5,Certificate,114.6
+34,1,15,13,4,General Enquiry,147.7
+33,2,9,16,4,Admission,102.2
+24,2,10,10,4,Fee Payment,77.7
+43,5,12,12,0,Certificate,57.3
+28,5,4,15,5,Certificate,10.4
+4,5,5,12,1,Certificate,1.4
+39,4,10,11,3,Admission,60.4
+29,3,1,11,4,Fee Payment,11.6
+32,4,5,12,4,Fee Payment,30.1
+28,3,11,13,2,Certificate,43.3
+28,4,15,16,2,Fee Payment,69.9
+4,4,8,15,3,Admission,2.9
+28,4,6,15,0,Fee Payment,20.1
+40,4,7,18,5,General Enquiry,19.8
+15,1,11,12,0,Certificate,75.7
+30,4,9,12,3,Certificate,43.9
+1,2,1,17,4,General Enquiry,0.0
+17,4,9,11,0,Certificate,20.7
+22,3,7,15,6,Fee Payment,24.3
+50,5,11,15,2,Fee Payment,73.2
+10,2,14,10,0,Certificate,34.6
+14,5,15,13,4,General Enquiry,16.1
+20,5,10,11,3,Admission,27.6
+50,2,6,11,4,Certificate,72.7
+43,3,7,13,5,Admission,38.5
+1,3,3,11,3,General Enquiry,4.6
+11,4,15,16,5,General Enquiry,17.4
+41,4,13,17,2,Certificate,68.7
+2,5,13,16,3,Admission,0.0
+43,2,5,11,1,Certificate,64.8
+14,3,5,11,4,Admission,19.4
+46,3,13,11,1,General Enquiry,81.9
+14,5,9,10,4,Fee Payment,19.0
+22,2,11,17,5,Certificate,42.3
+33,3,8,12,6,General Enquiry,22.9
+6,1,7,11,6,Certificate,14.0
+28,5,10,16,0,General Enquiry,12.3
+25,2,13,12,0,Admission,113.7
+39,2,6,9,6,Fee Payment,43.6
+50,3,13,10,2,Certificate,130.0
+33,3,4,15,0,Certificate,18.3
+20,5,7,16,2,Certificate,18.6
+20,3,14,11,5,Certificate,49.3
+21,3,15,17,2,Certificate,50.2
+41,1,14,16,0,General Enquiry,215.7
+16,1,5,16,5,Fee Payment,36.6
+8,2,13,11,1,Admission,46.9
+17,5,15,9,2,Admission,23.3
+1,5,15,16,0,Admission,2.7
+5,4,1,11,4,General Enquiry,0.0
+4,4,12,14,3,Fee Payment,4.3
+39,2,15,15,6,Admission,137.5
+36,1,12,10,2,Certificate,240.0
+35,1,4,16,1,Fee Payment,104.9
+23,2,12,17,1,Fee Payment,75.3
+36,2,2,15,1,General Enquiry,12.1
+8,1,8,12,3,General Enquiry,36.5
+45,2,10,16,0,Admission,145.4
+25,1,7,13,2,Admission,92.2
+47,4,11,15,5,Fee Payment,42.9
+7,5,4,16,5,Admission,7.1
+25,4,10,15,4,Certificate,41.1
+35,3,10,11,6,Admission,73.0
+25,3,10,10,5,Certificate,25.2
+22,2,5,11,4,Admission,45.8
+8,1,5,13,6,Fee Payment,14.8
+19,3,4,13,0,Admission,17.6
+12,3,7,14,5,Certificate,3.1
+15,1,9,12,2,Fee Payment,98.1
+34,3,6,16,5,Admission,36.5
+32,2,7,17,6,Certificate,36.8
+30,1,5,11,3,Fee Payment,99.9
+18,4,4,15,0,Certificate,7.3
+48,3,10,15,2,Fee Payment,93.0
+4,4,13,13,2,Fee Payment,5.1
+17,4,5,11,6,General Enquiry,0.0
+6,5,13,16,6,Fee Payment,9.8
+17,5,9,18,3,Certificate,19.4
+49,4,3,15,6,Certificate,11.7
+18,5,6,17,3,Admission,13.5
+46,3,1,18,2,Admission,7.6
+25,5,1,12,5,Certificate,3.0
+35,4,6,15,4,Certificate,26.4
+23,4,7,13,3,Certificate,15.0
+13,5,12,18,3,Admission,22.2
+38,3,3,10,4,General Enquiry,14.1
+49,4,13,12,5,Admission,93.5
+13,2,4,16,3,Fee Payment,16.3
+39,5,3,11,0,General Enquiry,5.4
+13,4,11,16,0,Certificate,25.9
+36,4,12,12,1,General Enquiry,44.8
+40,3,10,18,3,General Enquiry,46.6
+22,5,2,17,4,Fee Payment,8.6
+37,1,2,11,5,General Enquiry,16.6
+13,1,6,16,1,General Enquiry,28.8
+4,3,7,12,5,Fee Payment,3.5
+4,4,15,14,4,Certificate,2.5
+22,5,5,15,0,Certificate,11.4
+46,3,3,16,2,Admission,38.4
+6,4,15,9,2,Fee Payment,12.6
+23,3,3,11,6,Fee Payment,4.9
+35,5,1,15,6,General Enquiry,0.0
+10,4,7,14,5,Fee Payment,12.2
+36,3,7,13,3,Fee Payment,42.9
+15,5,10,9,3,General Enquiry,7.0
+41,1,14,12,2,General Enquiry,211.4
+29,5,14,16,5,General Enquiry,14.5
+27,1,5,9,0,Certificate,75.3
+9,2,15,12,1,Fee Payment,39.4
+23,5,10,17,0,Fee Payment,30.5
+43,4,2,9,3,General Enquiry,7.0
+0,5,15,15,2,Certificate,4.3
+38,4,3,11,1,Certificate,17.3
+25,4,9,16,2,Admission,43.1
+36,2,12,15,6,General Enquiry,62.6
+33,1,4,17,3,Admission,79.8
+22,1,5,11,5,Fee Payment,50.2
+15,2,8,13,6,Admission,22.5
+31,1,14,16,6,Fee Payment,223.3
+7,3,4,11,2,General Enquiry,0.6
+29,4,10,11,6,Certificate,28.8
+4,5,7,9,6,Admission,2.3
+33,3,2,17,6,Fee Payment,9.4
+32,5,11,15,2,Admission,44.6
+4,5,13,15,1,Fee Payment,7.6
+38,5,9,15,4,Admission,45.0
+21,3,3,13,6,Fee Payment,1.9
+40,2,3,13,6,Certificate,19.9
+2,5,7,12,3,Certificate,0.0
+9,2,8,15,1,General Enquiry,6.5
+25,3,9,11,2,Certificate,43.4
+9,1,4,17,4,Fee Payment,20.8
+16,4,8,16,3,General Enquiry,14.2
+33,4,5,12,2,Fee Payment,28.5
+7,1,11,14,2,Certificate,25.0
+34,2,12,10,0,General Enquiry,64.6
+5,3,10,18,2,General Enquiry,12.0
+8,3,1,17,4,General Enquiry,0.0
+29,5,15,17,1,Admission,53.2
+40,2,1,12,6,Certificate,5.4
+8,5,15,10,0,Fee Payment,15.2
+15,3,1,11,4,Certificate,0.8
+47,5,8,10,3,Admission,54.7
+50,2,2,10,5,General Enquiry,13.8
+29,1,2,10,6,Certificate,20.8
+22,1,11,18,3,General Enquiry,66.7
+17,2,11,10,4,Certificate,55.0
+31,5,2,10,4,Fee Payment,3.3
+30,1,15,16,3,General Enquiry,177.2
+15,2,5,14,1,General Enquiry,22.2
+1,1,5,16,3,Admission,7.8
+7,5,5,15,1,General Enquiry,5.0
+48,4,7,17,3,Admission,46.7
+21,4,3,15,4,General Enquiry,0.0
+24,4,7,13,1,Certificate,13.8
+23,4,4,15,1,Certificate,18.2
+39,4,1,12,5,Admission,1.9
+3,1,6,12,2,Certificate,7.5
+4,5,11,13,1,Fee Payment,4.0
+14,4,12,10,4,Certificate,18.6
+24,4,6,16,5,Fee Payment,10.4
+34,2,5,11,5,General Enquiry,22.2
+25,5,12,10,5,Certificate,19.4
+22,2,11,11,6,Fee Payment,47.3
+47,1,13,16,4,Admission,240.0
+8,5,14,12,2,Certificate,14.8
+29,2,13,15,6,Certificate,72.7
+27,1,15,16,1,Fee Payment,240.0
+24,4,7,10,2,Admission,31.5
+41,2,6,16,5,Fee Payment,52.4
+13,5,5,11,6,General Enquiry,2.5
+48,3,4,11,2,Certificate,39.1
+16,1,12,15,5,General Enquiry,55.5
+27,5,11,17,6,Certificate,19.0
+26,3,13,11,5,General Enquiry,30.2
+43,2,3,14,0,Certificate,26.2
+22,4,8,11,4,Admission,25.1
+14,3,4,14,1,Fee Payment,12.6
+1,1,14,14,5,Certificate,6.1
+18,4,5,14,0,Fee Payment,13.4
+42,3,3,14,6,Certificate,15.0
+0,4,9,10,1,Certificate,0.1
+45,5,14,15,2,General Enquiry,52.4
+27,4,14,15,1,Fee Payment,65.9
+7,4,2,15,5,Fee Payment,4.4
+15,2,5,10,2,Admission,24.8
+28,2,3,12,5,Certificate,22.7
+16,3,5,12,0,Fee Payment,17.5
+5,5,9,10,3,Certificate,7.3
+33,3,5,11,6,Fee Payment,25.3
+34,2,2,12,6,Fee Payment,15.8
+6,4,8,15,1,Certificate,4.2
+14,5,1,11,2,Certificate,3.8
+12,5,4,16,2,Admission,16.5
+33,2,1,13,3,Certificate,6.4
+37,4,2,16,3,Admission,12.8
+37,3,7,13,0,Admission,45.5
+47,3,13,13,5,Fee Payment,69.4
+39,2,12,14,1,Fee Payment,140.7
+16,1,2,17,2,Admission,15.0
+5,2,1,13,5,Admission,0.0
+31,3,6,13,4,Certificate,20.8
+46,5,10,14,2,Admission,46.3
+49,5,12,15,6,Admission,42.8
+11,1,13,10,2,Certificate,87.1
+12,4,6,13,3,Certificate,18.8
+1,1,3,13,1,General Enquiry,0.0
+7,4,1,17,1,Certificate,0.0
+28,2,3,13,3,General Enquiry,16.9
+27,3,1,13,3,Certificate,1.8
+18,4,13,18,5,General Enquiry,18.1
+15,3,5,12,2,Certificate,13.0
+42,5,13,11,6,Certificate,39.3
+23,3,9,11,4,Certificate,38.0
+41,5,9,10,0,Certificate,46.7
+49,4,7,9,5,General Enquiry,17.9
+16,2,13,12,4,Certificate,55.1
+10,4,1,16,2,Admission,1.1
+48,3,2,15,3,General Enquiry,7.0
+32,3,7,9,2,Fee Payment,41.1
+14,1,6,14,4,Admission,35.1
+31,1,9,10,3,General Enquiry,100.4
+26,3,12,17,3,General Enquiry,37.0
+46,1,9,10,1,Certificate,240.0
+13,5,4,14,2,General Enquiry,5.2
+50,5,5,11,3,General Enquiry,18.6
+47,4,12,15,3,Admission,107.6
+9,4,4,12,2,Fee Payment,8.8
+8,3,8,15,4,General Enquiry,9.7
+27,1,9,11,1,Fee Payment,164.9
+2,2,12,17,3,Certificate,8.3
+15,3,11,13,0,Certificate,23.8
+22,5,7,15,3,Admission,14.5
+49,2,5,16,5,General Enquiry,34.8
+50,3,6,18,5,Fee Payment,39.4
+7,2,7,11,4,General Enquiry,13.3
+45,1,4,11,5,Certificate,63.3
+4,1,10,11,0,Certificate,18.3
+38,2,4,11,2,General Enquiry,31.2
+43,1,10,14,4,General Enquiry,134.5
+45,1,12,18,5,Admission,174.9
+11,2,15,18,4,Admission,48.9
+45,2,2,13,5,Fee Payment,8.3
+5,3,12,15,1,Admission,9.6
+26,1,2,16,1,Fee Payment,39.8
+23,2,6,17,0,Admission,50.0
+16,3,3,11,4,Certificate,4.5
+1,5,3,13,4,Certificate,0.0
+39,4,3,16,1,Certificate,16.8
+17,5,1,11,5,Admission,7.2
+33,2,13,12,5,Certificate,80.3
+20,3,1,18,2,Admission,2.2
+19,3,6,18,1,General Enquiry,18.1
+45,5,11,17,5,Certificate,30.6
+4,5,15,16,4,Admission,10.7
+37,5,13,11,1,Certificate,43.7
+38,4,3,11,1,Certificate,15.4
+19,3,15,13,3,General Enquiry,21.0
+13,3,10,14,3,Fee Payment,17.4
+0,5,3,13,1,Fee Payment,2.5
+47,2,7,15,6,Certificate,64.9
+48,2,14,12,2,General Enquiry,122.8
+12,5,6,15,2,Certificate,5.4
+1,2,3,12,0,Certificate,0.2
+6,2,14,12,6,General Enquiry,12.3
+3,3,15,10,1,Fee Payment,13.0
+42,2,15,11,6,General Enquiry,58.0
+45,5,15,16,3,Certificate,69.0
+7,5,14,12,6,General Enquiry,5.7
+38,2,7,11,1,Admission,88.8
+9,3,3,15,1,Fee Payment,7.0
+18,5,10,14,5,Fee Payment,14.1
+30,4,4,9,5,General Enquiry,5.5
+36,2,8,11,3,General Enquiry,50.6
+44,3,10,10,0,Certificate,80.8
+2,4,15,15,6,General Enquiry,5.6
+10,4,5,11,2,Certificate,4.5
+14,1,4,10,6,General Enquiry,14.6
+15,2,12,9,6,Admission,36.5
+50,5,1,14,5,General Enquiry,7.2
+39,2,9,9,4,Admission,95.4
+16,2,12,16,4,Fee Payment,67.1
+49,2,9,10,3,Admission,167.2
+25,1,6,14,0,Admission,83.8
+25,1,13,12,2,Admission,215.0
+22,2,6,12,5,General Enquiry,16.0
+7,5,11,10,5,General Enquiry,3.2
+47,1,7,16,3,General Enquiry,135.4
+0,2,1,17,4,Admission,0.7
+8,1,8,9,0,Admission,37.4
+11,3,1,10,3,Fee Payment,0.0
+14,2,14,17,3,Certificate,39.8
+6,4,10,13,6,Certificate,12.2
+0,3,6,10,2,Certificate,0.0
+34,4,8,11,1,Certificate,33.8
+49,4,10,15,2,Certificate,81.7
+6,3,4,15,1,Certificate,5.5
+15,5,5,14,3,Admission,10.6
+25,3,7,17,4,Certificate,26.8
+47,5,4,13,5,General Enquiry,7.1
+35,5,12,11,6,Fee Payment,35.5
+39,3,2,13,0,Certificate,6.8
+29,4,13,12,1,General Enquiry,35.1
+21,2,6,11,2,Admission,44.4
+10,5,9,9,1,Admission,17.2
+44,4,3,12,5,Admission,16.0
+41,5,6,15,0,General Enquiry,8.1
+1,2,12,9,0,General Enquiry,1.6
+36,4,5,12,6,Certificate,30.0
+4,3,2,15,6,Admission,3.9
+37,1,8,14,1,General Enquiry,84.8
+42,1,3,16,2,Fee Payment,83.7
+6,3,5,16,3,Fee Payment,3.6
+22,2,7,15,3,General Enquiry,21.9
+6,1,9,10,6,Certificate,19.8
+28,3,10,13,2,Admission,53.2
+47,4,11,14,0,Fee Payment,51.3
+4,2,13,11,2,Certificate,9.9
+20,5,1,9,3,Fee Payment,2.1
+49,4,6,11,3,Admission,46.8
+15,3,1,12,3,Fee Payment,4.4
+6,5,1,12,6,General Enquiry,0.0
+24,3,4,10,5,Admission,18.1
+25,1,9,16,1,Certificate,111.9
+33,1,14,17,2,Admission,240.0
+16,5,12,11,4,Fee Payment,15.4
+48,5,10,17,2,General Enquiry,24.3
+26,4,12,9,2,Certificate,39.3
+14,1,3,17,1,Certificate,27.5
+48,2,13,17,1,Admission,180.9
+47,1,14,9,5,Admission,240.0
+25,1,2,16,5,Admission,23.7
+1,2,8,18,5,General Enquiry,0.0
+30,3,13,17,2,Fee Payment,63.2
+28,1,8,18,0,Certificate,91.9
+7,5,13,14,1,Fee Payment,4.6
+32,3,15,10,2,General Enquiry,63.6
+42,2,8,16,3,Fee Payment,91.6
+5,3,1,14,6,Fee Payment,1.6
+36,4,6,14,6,Certificate,12.1
+7,2,4,12,0,Fee Payment,9.8
+38,1,8,14,4,Certificate,136.6
+21,1,9,10,2,Certificate,123.4
+0,5,7,15,1,Certificate,1.0
+49,1,3,10,3,General Enquiry,64.8
+8,4,5,15,0,Fee Payment,3.6
+30,2,11,16,2,Certificate,94.1
+9,4,1,13,3,General Enquiry,0.0
+47,1,4,13,1,Certificate,84.6
+37,5,14,11,4,Certificate,56.7
+41,4,2,18,3,Certificate,6.9
+22,3,7,15,5,Fee Payment,16.5
+23,2,4,12,1,Admission,23.3
+32,5,2,10,0,Certificate,0.0
+40,2,7,11,3,Fee Payment,76.4
+43,3,8,13,1,Certificate,58.8
+0,2,3,17,4,Fee Payment,0.0
+33,2,2,15,0,General Enquiry,7.0
+5,3,3,11,4,Fee Payment,8.9
+14,1,10,16,6,General Enquiry,33.2
+42,1,13,12,0,Admission,240.0
+12,2,3,16,2,Admission,14.7
+40,1,5,11,5,General Enquiry,57.7
+23,3,6,14,3,General Enquiry,8.2
+11,5,6,17,1,Admission,6.6
+17,1,4,11,1,Admission,35.1
+27,1,1,15,5,Fee Payment,21.4
+39,1,8,18,6,Certificate,85.2
+30,3,6,10,2,Certificate,28.0
+47,2,6,10,3,Admission,84.1
+44,3,4,15,5,General Enquiry,9.2
+38,1,14,12,1,Fee Payment,240.0
+30,2,10,10,1,Fee Payment,118.5
+14,3,7,13,5,Fee Payment,10.0
+21,3,4,15,1,Admission,12.9
+6,3,13,11,5,General Enquiry,0.0
+19,4,14,12,3,Admission,43.3
+47,3,1,16,6,Fee Payment,5.7
+21,5,14,13,0,Fee Payment,26.9
+5,3,11,16,6,Certificate,8.1
+33,2,2,12,1,Admission,24.2
+49,2,12,17,0,General Enquiry,96.0
+44,2,2,15,5,General Enquiry,10.4
+13,3,1,10,3,Fee Payment,0.0
+23,2,2,17,5,Fee Payment,10.8
+27,5,7,13,0,Admission,21.3
+12,3,10,10,0,Fee Payment,29.3
+13,5,7,10,3,General Enquiry,9.7
+12,4,2,15,6,Certificate,0.0
+50,2,3,9,2,Fee Payment,30.1
+38,2,13,11,5,Admission,107.4
+42,4,15,10,6,Certificate,54.1
+41,2,12,12,6,Certificate,105.8
+48,2,2,12,3,Admission,34.4
+5,5,13,13,4,Fee Payment,10.6
+44,3,11,11,3,Fee Payment,104.6
+3,1,8,9,4,General Enquiry,8.3
+24,3,3,14,3,Certificate,16.0
+30,3,15,12,3,Certificate,89.7
+18,5,7,15,3,Certificate,14.6
+7,4,1,10,4,Certificate,5.6
+9,1,4,9,5,Certificate,12.4
+42,1,7,11,6,General Enquiry,75.0
+16,4,1,12,4,Fee Payment,0.0
+15,1,5,12,0,Certificate,47.0
+47,2,8,16,4,Certificate,120.9
+7,1,15,12,2,Fee Payment,64.8
+46,1,2,13,0,Admission,61.1
+46,5,9,14,0,Fee Payment,30.2
+30,1,14,9,4,Certificate,197.4
+8,1,13,13,6,Certificate,34.2
+7,5,14,12,3,Fee Payment,9.3
+14,1,3,12,3,Certificate,35.5
+29,5,13,10,0,Admission,50.4
+7,1,15,16,4,Admission,67.3
+23,1,5,17,0,Fee Payment,59.7
+5,1,8,9,5,Admission,7.2
+27,4,8,14,5,Fee Payment,16.1
+1,4,8,16,6,Certificate,3.8
+36,3,5,11,1,Admission,36.6
+2,2,15,16,1,Admission,7.0
+9,1,15,15,2,Fee Payment,96.5
+8,3,6,17,5,General Enquiry,7.9
+42,2,13,18,1,Certificate,135.9
+2,3,6,9,6,General Enquiry,0.0
+21,4,12,12,1,General Enquiry,22.6
+30,5,9,13,0,General Enquiry,13.5
+26,3,8,10,1,General Enquiry,21.1
+34,1,2,12,5,General Enquiry,13.4
+40,2,10,18,4,General Enquiry,58.0
+20,5,5,9,2,Admission,7.2
+42,3,4,12,4,Certificate,23.1
+16,4,3,16,4,Fee Payment,8.2
+50,3,15,11,3,Fee Payment,158.9
+25,1,2,13,3,General Enquiry,23.0
+37,5,12,18,0,Certificate,37.7
+44,4,13,13,1,Fee Payment,76.6
+40,5,1,10,3,Admission,6.5
+43,5,9,9,0,Certificate,35.1
+27,2,9,17,3,General Enquiry,42.8
+2,2,6,11,0,General Enquiry,4.7
+25,2,11,13,5,Fee Payment,52.1
+9,5,7,10,0,Certificate,6.2
+45,3,7,12,0,Certificate,56.8
+12,3,7,17,4,Fee Payment,8.8
+11,5,13,13,1,Certificate,10.2
+12,4,10,18,2,Certificate,11.6
+32,5,6,11,2,Certificate,16.4
+29,5,14,13,1,Certificate,41.0
+48,1,13,16,5,Admission,240.0
+21,2,14,12,4,General Enquiry,48.8
+14,4,11,11,1,Certificate,23.2
+2,5,6,16,4,General Enquiry,0.0
+0,1,12,12,4,Certificate,0.0
+19,2,5,13,3,Fee Payment,21.2
+47,3,5,18,4,Certificate,40.6
+26,4,7,11,6,Certificate,15.0
+45,1,15,11,3,Certificate,240.0
+5,4,9,9,2,Fee Payment,5.0
+4,2,6,12,3,Fee Payment,5.1
+42,2,7,11,5,Fee Payment,53.7
+5,3,5,15,4,General Enquiry,4.0
+2,3,10,11,0,General Enquiry,5.4
+20,4,6,15,3,General Enquiry,12.4
+47,2,9,11,5,General Enquiry,72.7
+35,5,6,12,1,General Enquiry,22.0
+5,1,5,12,6,Fee Payment,9.7
+42,5,15,15,5,Certificate,47.8
+43,1,6,13,5,Fee Payment,98.4
+40,4,2,12,0,Certificate,8.1
+46,2,6,16,4,Admission,105.3
+12,2,8,14,3,Fee Payment,26.6
+49,1,2,11,4,Admission,68.3
+16,4,5,17,5,Admission,10.4
+40,1,3,12,2,Fee Payment,90.0
+29,4,8,9,3,Admission,33.6
+39,4,11,13,4,Fee Payment,54.7
+32,5,15,10,5,Certificate,47.2
+32,4,6,11,5,Certificate,23.4
+31,2,13,15,2,Certificate,110.4
+39,4,4,10,6,Admission,18.5
+37,5,12,16,0,Fee Payment,56.6
+6,2,9,17,3,Fee Payment,15.5
+42,1,12,14,4,Fee Payment,228.4
+27,5,12,15,0,Fee Payment,30.6
+16,1,8,15,3,Admission,77.6
+26,3,4,18,4,Admission,15.1
+49,2,8,12,4,Certificate,103.5
+43,1,13,10,0,General Enquiry,223.9
+42,4,15,13,1,Fee Payment,79.9
+23,1,14,13,1,Certificate,155.1
+39,4,3,10,4,Admission,14.1
+19,4,9,14,2,Certificate,18.1
+34,1,2,9,4,Certificate,35.4
+32,1,11,17,5,Certificate,123.8
+12,4,15,11,5,Fee Payment,16.3
+13,3,1,9,1,General Enquiry,1.9
+3,1,10,10,6,Fee Payment,21.9
+7,5,15,11,1,Certificate,11.8
+22,2,13,11,0,Certificate,74.5
+24,1,6,9,0,Admission,79.4
+8,5,2,11,1,Admission,2.5
+21,1,14,11,6,Admission,136.8
+30,3,14,12,1,General Enquiry,52.7
+11,5,9,12,4,General Enquiry,2.3
+17,3,15,12,2,Admission,50.1
+18,3,1,11,0,General Enquiry,1.8
+25,2,10,10,3,Fee Payment,76.1
+18,1,1,9,0,Fee Payment,7.2
+37,3,15,11,3,Fee Payment,112.7
+16,5,11,15,3,Certificate,20.2
+22,1,14,18,3,Certificate,158.6
+19,5,9,17,1,General Enquiry,10.4
+9,3,2,13,5,Admission,3.6
+34,3,1,13,4,Certificate,3.5
+12,1,6,11,1,Certificate,44.4
+15,4,12,16,3,Certificate,27.4
+40,1,3,16,0,Admission,89.2
+48,2,13,16,6,Fee Payment,145.5
+34,4,4,17,5,Fee Payment,14.7
+46,1,8,12,2,Certificate,206.7
+43,3,4,16,4,Admission,40.2
+24,3,7,16,4,Fee Payment,40.9
+39,1,7,11,4,Admission,172.7
+16,2,1,17,0,General Enquiry,0.5
+23,2,9,10,6,Certificate,42.2
+27,4,12,18,6,Admission,34.2
+48,5,15,16,6,General Enquiry,33.1
+43,5,5,10,6,General Enquiry,11.1
+24,1,14,15,6,Certificate,132.1
+33,1,14,9,5,Admission,143.0
+10,1,15,16,0,Admission,98.8
+41,3,6,16,3,Fee Payment,49.8
+28,1,13,14,1,Certificate,169.3
+27,2,9,16,1,Admission,95.6
+39,5,1,10,5,Admission,0.0
+32,5,5,11,5,General Enquiry,5.4
+3,5,11,12,3,General Enquiry,0.0
+14,2,3,9,5,Certificate,5.2
+9,4,7,12,0,Certificate,7.5
+37,4,12,11,1,Admission,70.3
+1,1,3,12,6,Fee Payment,4.7
+10,3,8,12,3,Fee Payment,20.3
+30,3,4,16,3,General Enquiry,15.4
+35,2,9,11,3,Certificate,85.5
+25,4,4,17,1,Certificate,15.9
+43,4,15,12,5,Certificate,63.8
+46,3,2,11,5,Fee Payment,10.0
+6,4,15,13,4,Fee Payment,4.9
+48,4,12,12,2,Certificate,77.4
+31,3,13,11,4,Fee Payment,90.7
+32,2,13,13,6,Fee Payment,95.9
+4,4,3,10,4,General Enquiry,1.3
+31,4,14,12,3,General Enquiry,36.2
+37,5,9,14,1,Admission,30.4
+29,1,15,12,3,Admission,240.0
+4,3,14,16,2,Fee Payment,4.7
+26,5,9,11,4,Admission,34.6
+47,3,6,18,0,General Enquiry,34.0
+36,5,2,16,1,Certificate,9.8
+7,1,2,18,5,Fee Payment,4.3
+48,1,6,16,2,General Enquiry,115.5
+48,4,13,10,3,Admission,107.3
+8,2,8,13,3,Fee Payment,13.2
+40,3,8,10,3,Certificate,75.0
+20,3,4,16,5,Certificate,9.2
+30,3,9,14,1,Certificate,47.5
+22,5,10,11,5,General Enquiry,2.1
+39,1,15,17,1,General Enquiry,206.9
+50,4,11,10,2,Fee Payment,99.8
+40,5,10,14,4,General Enquiry,25.3
+47,4,14,15,6,Admission,82.9
+48,2,7,9,1,Admission,100.4
+4,1,15,14,4,Certificate,25.0
+12,4,6,16,0,General Enquiry,8.7
+36,3,2,10,0,Admission,12.7
+30,1,7,13,5,Admission,76.8
+2,2,2,11,5,Fee Payment,4.3
+4,5,2,15,2,Fee Payment,4.0
+26,2,14,10,4,Admission,113.8
+31,1,12,17,2,Certificate,163.3
+8,4,4,17,1,General Enquiry,0.5
+8,1,13,11,3,Certificate,64.6
+6,5,2,11,2,Admission,0.0
+28,5,5,14,5,Certificate,10.6
+0,5,11,15,2,Certificate,2.2
+29,5,5,12,2,Fee Payment,17.6
+24,2,11,10,3,Certificate,83.9
+23,2,14,10,5,Fee Payment,67.4
+34,2,1,18,1,Fee Payment,8.0
+26,3,1,12,6,Fee Payment,0.5
+37,5,15,16,3,General Enquiry,48.4
+38,4,8,13,4,General Enquiry,20.2
+46,4,8,17,6,Admission,38.3
+40,5,7,10,3,Fee Payment,34.4
+26,4,7,10,1,General Enquiry,12.6
+25,2,11,17,5,General Enquiry,27.0
+12,3,9,17,0,Certificate,23.0
+30,3,3,11,3,General Enquiry,12.1
+7,1,10,12,6,Admission,27.4
+47,4,11,12,2,Fee Payment,83.1
+43,4,2,12,4,Certificate,11.6
+6,4,6,11,3,Fee Payment,17.5
+40,3,12,17,1,Fee Payment,85.5
+5,4,10,11,2,General Enquiry,3.4
+36,5,3,15,3,Admission,20.5
+4,3,1,10,0,General Enquiry,0.0
+24,3,9,9,2,Certificate,34.6
+33,1,7,15,2,Fee Payment,172.3
+37,4,15,12,5,General Enquiry,36.0
+21,5,8,15,0,Fee Payment,12.8
+47,4,14,10,5,General Enquiry,41.0
+39,5,4,17,2,General Enquiry,15.3
+10,5,7,15,4,Fee Payment,10.1
+34,4,3,16,3,General Enquiry,6.5
+37,3,9,10,2,Fee Payment,63.1
+17,1,3,11,6,Certificate,17.7
+37,1,8,12,1,Fee Payment,190.2
+45,2,6,13,0,Fee Payment,81.4
+41,3,3,11,5,Certificate,20.8
+38,4,2,10,4,Admission,14.7
+32,3,8,12,6,General Enquiry,16.2
+13,1,15,11,3,Certificate,94.8
+40,2,3,12,0,Admission,43.8
+18,5,7,11,0,Admission,11.1
+27,5,4,11,3,Certificate,11.3
+16,2,13,14,1,Certificate,51.2
+15,5,7,12,6,Fee Payment,4.9
+8,4,15,12,0,General Enquiry,7.3
+49,5,4,13,6,General Enquiry,8.3
+7,5,2,16,1,Fee Payment,3.3
+4,4,9,12,0,General Enquiry,6.9
+47,2,10,14,1,Certificate,118.3
+28,4,15,18,1,General Enquiry,33.5
+22,2,14,13,2,Admission,79.2
+37,2,14,17,2,General Enquiry,71.4
+19,4,10,16,3,Fee Payment,26.8
+6,3,6,9,3,Fee Payment,7.6
+37,3,7,12,0,Admission,60.9
+8,2,3,15,0,Certificate,0.0
+28,3,7,18,1,Fee Payment,29.3
+48,1,6,12,1,Certificate,182.6
+47,4,1,10,0,Admission,8.2
+18,3,4,14,2,Fee Payment,6.8
+39,5,9,10,3,Admission,63.4
+31,3,6,15,2,General Enquiry,23.3
+24,3,15,13,2,General Enquiry,40.1
+7,1,8,15,3,General Enquiry,23.0
+19,1,15,16,3,Certificate,155.7
+33,2,10,14,2,General Enquiry,46.8
+50,2,1,14,1,General Enquiry,15.6
+0,2,4,15,2,Admission,3.0
+36,2,11,16,0,General Enquiry,82.2
+43,4,9,16,3,Admission,70.0
+48,1,5,9,6,Admission,83.9
+21,2,8,14,2,General Enquiry,33.0
+6,1,14,11,0,Fee Payment,46.1
+13,2,6,16,4,Certificate,23.5
+43,4,1,15,0,Fee Payment,0.9
+44,1,5,12,1,Admission,118.1
+32,2,15,11,1,Certificate,140.5
+6,1,12,12,6,Fee Payment,26.8
+6,5,13,15,6,General Enquiry,0.0
+24,4,14,11,3,Certificate,51.3
+30,2,2,10,4,Admission,30.0
+1,1,5,17,4,General Enquiry,5.9
+34,1,1,16,4,Certificate,18.1
+27,3,1,11,3,Certificate,5.1
+0,4,13,11,6,General Enquiry,2.7
+4,3,15,18,5,Admission,11.9
+23,5,3,15,0,Admission,8.0
+36,2,11,14,2,Admission,111.8
+42,2,9,11,6,Certificate,77.7
+21,3,2,11,2,General Enquiry,7.2
+15,2,14,9,1,Certificate,48.7
+49,5,14,15,6,Certificate,53.6
+23,1,9,9,4,General Enquiry,76.5
+16,3,11,9,3,Fee Payment,36.9
+22,3,6,15,2,General Enquiry,18.7
+0,1,12,17,0,Admission,5.2
+15,3,7,15,2,Certificate,18.1
+26,3,15,13,3,General Enquiry,51.1
+46,2,1,13,6,Admission,11.1
+37,1,3,12,2,Fee Payment,96.8
+39,1,15,11,1,General Enquiry,196.5
+27,1,5,13,2,Fee Payment,63.9
+5,3,5,12,6,Admission,5.3
+19,1,12,14,3,Certificate,112.3
+50,5,3,17,2,Admission,25.4
+2,2,8,18,4,Admission,2.3
+44,4,5,10,4,Admission,42.5
+34,4,3,12,2,Fee Payment,20.8
+14,3,15,11,6,General Enquiry,21.7
+39,5,3,12,4,Fee Payment,10.5
+42,1,2,11,0,Fee Payment,62.3
+2,2,11,10,2,Admission,11.8
+5,2,14,16,6,General Enquiry,11.5
+33,1,2,13,2,General Enquiry,21.7
+50,2,11,17,3,Certificate,133.0
+1,2,9,9,4,Admission,2.3
+33,4,13,10,4,General Enquiry,44.5
+6,2,2,12,6,Admission,2.9
+33,5,15,10,1,Certificate,49.8
+31,4,10,11,3,General Enquiry,23.7
+4,5,13,18,3,General Enquiry,0.8
+34,1,6,11,1,General Enquiry,79.1
+45,5,15,11,4,Certificate,76.3
+44,4,10,14,0,Fee Payment,58.6
+1,5,2,13,3,Fee Payment,1.7
+12,2,14,14,2,General Enquiry,23.3
+12,5,12,12,1,Certificate,22.6
+23,3,5,16,5,Fee Payment,15.5
+7,1,9,10,1,General Enquiry,21.7
+43,3,6,12,1,Certificate,52.1
+39,1,9,15,5,Admission,136.0
+41,5,15,16,6,General Enquiry,28.1
+10,2,14,12,0,Certificate,45.7
+0,2,4,14,1,Certificate,0.0
+46,3,15,10,4,Admission,172.5
+14,3,7,10,5,Fee Payment,20.5
+33,1,11,10,6,Admission,165.3
+46,5,12,15,3,Fee Payment,71.0
+1,5,8,11,0,Fee Payment,4.4
+0,4,7,15,6,Fee Payment,0.0
+0,4,7,10,1,General Enquiry,2.6
+7,3,13,16,0,Certificate,14.3
+2,3,6,16,4,Fee Payment,1.0
+41,3,5,10,4,Fee Payment,37.3
+30,1,6,9,0,Certificate,88.4
+49,1,3,9,1,Fee Payment,86.6
+40,2,6,16,4,General Enquiry,44.1
+49,3,2,11,1,General Enquiry,7.3
+12,1,2,13,4,Certificate,7.1
+14,1,11,12,2,Admission,108.4
+43,5,2,16,4,Admission,18.9
+12,2,9,13,3,General Enquiry,18.7
+2,3,12,13,2,Admission,3.2
+34,3,11,18,2,Fee Payment,70.8
+40,4,7,10,4,Admission,45.6
+49,4,3,16,3,General Enquiry,12.3
+47,2,14,9,4,General Enquiry,92.8
+6,5,13,13,4,Certificate,12.4
+39,2,10,17,1,General Enquiry,41.3
+43,5,2,15,6,Admission,11.0
+35,3,1,15,3,Admission,6.2
+41,1,5,11,5,Fee Payment,85.0
+42,4,3,12,6,Certificate,19.3
+22,1,13,12,6,General Enquiry,69.2
+2,4,4,13,4,Certificate,0.0
+23,1,5,13,5,Certificate,37.2
+10,2,15,11,3,General Enquiry,30.5
+5,4,13,11,5,Admission,6.1
+6,5,4,11,2,Fee Payment,0.0
+35,3,6,12,4,Fee Payment,37.9
+25,1,8,10,0,Fee Payment,140.8
+27,2,10,16,6,Fee Payment,59.3
+38,5,15,14,1,Certificate,57.2
+27,4,14,10,4,General Enquiry,34.2
+32,1,15,15,0,General Enquiry,169.9
+4,2,1,16,1,Fee Payment,6.4
+43,2,4,11,6,Fee Payment,36.3
+22,1,9,10,5,Admission,88.9
+7,5,1,9,1,Certificate,4.0
+41,4,6,9,0,Certificate,25.2
+37,1,3,16,5,Certificate,40.2
+2,4,14,18,6,Admission,2.8
+9,3,1,9,1,Fee Payment,1.6
+0,1,3,15,4,Certificate,0.8
+13,3,3,10,1,Admission,16.5
+5,1,3,14,5,Certificate,6.1
+36,2,9,15,2,Fee Payment,74.3
+26,5,6,12,0,Certificate,19.1
+49,4,14,9,2,General Enquiry,54.3
+38,1,4,14,3,General Enquiry,48.2
+31,5,9,18,5,Admission,23.1
+25,3,10,11,0,Fee Payment,51.5
+2,5,10,11,6,Fee Payment,1.6
+3,4,12,10,4,Admission,8.2
+31,2,4,14,6,Admission,21.7
+0,3,8,14,6,Certificate,0.0
+2,3,13,16,1,General Enquiry,13.1
+11,4,13,15,0,Admission,20.6
+45,2,10,17,5,General Enquiry,50.3
+23,2,10,16,1,General Enquiry,33.8
+36,2,13,11,1,Certificate,134.3
+20,2,10,14,3,Certificate,40.9
+8,1,15,11,6,Certificate,44.6
+18,1,2,11,5,Certificate,18.6
+4,5,6,17,3,Admission,4.2
+39,1,2,15,1,General Enquiry,32.5
+9,5,2,18,2,Admission,0.0
+19,1,8,12,4,Fee Payment,113.8
+49,4,4,13,1,Admission,21.4
+30,2,7,13,3,Certificate,60.3
+23,3,7,10,0,Admission,42.3
+27,2,10,11,2,Certificate,81.8
+39,3,15,13,1,Certificate,83.3
+12,3,13,10,4,Certificate,30.3
+32,3,6,17,6,Admission,22.8
+44,2,5,10,1,Fee Payment,68.6
+29,3,12,11,5,Fee Payment,48.7
+22,5,2,16,4,Fee Payment,0.0
+7,3,9,10,6,Admission,14.2
+12,2,7,17,6,Fee Payment,14.9
+48,1,3,15,0,Certificate,77.0
+27,2,10,10,5,Fee Payment,54.4
+15,1,5,15,4,Fee Payment,49.0
+21,1,3,15,0,General Enquiry,19.4
+29,5,10,15,1,Admission,25.3
+27,1,3,16,6,Certificate,34.4
+35,3,11,15,3,Admission,91.8
+13,5,3,14,2,Certificate,3.0
+33,5,7,11,2,General Enquiry,12.4
+22,1,13,15,5,Fee Payment,125.5
+47,1,4,17,1,Fee Payment,81.5
+8,2,12,14,1,Fee Payment,19.7
+7,3,11,15,4,Fee Payment,12.7
+23,5,14,12,6,Admission,35.0
+25,2,3,15,1,Admission,23.5
+35,1,11,18,1,Admission,207.5
+20,2,15,10,3,Fee Payment,113.6
+46,5,12,11,1,General Enquiry,44.0
+24,1,3,13,4,Fee Payment,39.3
+6,2,13,13,1,Admission,20.2
+6,1,2,14,0,General Enquiry,1.8
+49,1,9,9,1,Fee Payment,181.7
+6,5,8,12,6,Fee Payment,7.4
+48,1,8,14,6,Fee Payment,145.4
+14,2,8,14,3,General Enquiry,16.8
+4,5,1,15,2,General Enquiry,0.0
+15,4,8,15,5,Fee Payment,16.0
+31,1,15,15,1,Admission,240.0
+21,3,7,16,4,Admission,29.7
+40,5,5,14,4,Fee Payment,15.4
+31,3,15,13,4,Admission,104.9
+20,3,2,14,1,Certificate,9.4
+32,3,8,10,5,Admission,26.6
+49,4,8,11,4,Fee Payment,48.9
+21,1,8,13,6,General Enquiry,36.3
+7,5,14,16,1,Fee Payment,10.3
+20,5,7,15,4,Fee Payment,11.6
+42,1,15,10,5,Fee Payment,240.0
+11,5,2,14,1,General Enquiry,2.4
+48,5,12,11,5,Certificate,48.9
+30,4,9,15,0,Admission,41.0
+30,2,4,16,5,Admission,32.2
+16,3,4,14,4,General Enquiry,5.4
+46,5,11,14,1,General Enquiry,30.3
+1,1,10,12,0,General Enquiry,5.8
+15,5,10,12,5,Certificate,5.5
+21,5,1,16,1,General Enquiry,6.6
+24,4,9,15,3,Certificate,31.6
+24,2,15,13,0,General Enquiry,66.4
+7,3,1,12,6,Fee Payment,0.0
+11,1,8,9,3,General Enquiry,22.9
+4,5,8,10,6,Admission,0.0
+29,2,14,11,1,Certificate,118.2
+17,1,5,12,1,General Enquiry,32.5
+28,4,8,17,4,Fee Payment,26.5
+30,4,11,13,4,Fee Payment,36.2
+35,4,1,11,5,General Enquiry,0.0
+27,1,13,10,6,Admission,165.1
+33,4,13,12,5,Certificate,39.6
+29,4,11,16,0,Admission,48.8
+33,4,10,12,2,Admission,67.2
+31,5,12,16,6,General Enquiry,19.3
+16,2,12,16,3,General Enquiry,43.8
+12,2,14,10,6,Fee Payment,33.4
+40,5,7,14,3,Certificate,27.7
+17,3,7,17,0,General Enquiry,12.3
+28,3,10,12,3,Admission,49.4
+10,2,3,9,5,Certificate,9.8
+22,4,13,17,4,General Enquiry,21.9
+27,4,12,17,0,General Enquiry,29.3
+31,1,10,13,1,Admission,161.6
+26,3,5,14,5,Fee Payment,15.0
+18,5,6,11,6,Fee Payment,6.1
+49,2,7,16,5,Fee Payment,85.6
+26,2,10,13,0,Admission,75.9

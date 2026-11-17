@@ -1,0 +1,32 @@
+# Python environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+
+# SQLite databases
+*.sqlite
+*.sqlite3
+*.db
+
+# Generated model files
+*.pkl
+!models/saved_model.pkl
+
+# Environment variables and secrets
+!.env.example
+.env
+.env.*
+
+# IDE and editor temporary files
+.idea/
+.vscode/*.log
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
